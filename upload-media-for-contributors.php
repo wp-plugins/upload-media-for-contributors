@@ -2,6 +2,7 @@
 
 /*
 Plugin Name: Upload Media For Contributors
+Plugin URI: http://www.geekpress.fr/
 Description: This plugin adds the ability to upload media for the contributors of your site.
 Version: 1.0
 Author: GeekPress
