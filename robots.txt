@@ -12,7 +12,7 @@ This plugin adds the ability to upload media for the contributors of your site.
 
 This plugin adds the ability to upload media for the contributors of your site.
 
-Just activate the plugin to make it work!
+Just activate the plugin to make it work.
 
 
 == Installation ==
